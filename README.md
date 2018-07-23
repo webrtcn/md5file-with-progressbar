@@ -14,9 +14,9 @@ npm install --save md5file-with-progressbar
 ## Usage
 
 ```
-const md5 = require('./index');
+const md5 = require('md5file-with-progressbar');
 
-let instance = new md5('/Users/rain/Downloads/bigfile.zip');
+let instance = new md5('/Users/anybody/Downloads/bigfile.zip');
 
 instance.on('progress', p => {
     console.log(`current percnet ${p}%`);
