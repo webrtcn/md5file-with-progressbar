@@ -1,0 +1,29 @@
+{
+  "name": "md5file-with-progressbar",
+  "version": "1.0.0",
+  "description": "file md5 with progress bar",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webrtcn/md5file-with-progressbar.git"
+  },
+  "keywords": [
+    "md5file",
+    "progressbar"
+  ],
+  "author": "webrtcn",
+  "license": "SATA",
+  "bugs": {
+    "url": "https://github.com/webrtcn/md5file-with-progressbar/issues"
+  },
+  "homepage": "https://github.com/webrtcn/md5file-with-progressbar#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
