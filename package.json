@@ -1,6 +1,6 @@
 {
   "name": "md5file-with-progressbar",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "file md5 with progress bar",
   "main": "index.js",
   "directories": {
@@ -22,8 +22,5 @@
   "bugs": {
     "url": "https://github.com/webrtcn/md5file-with-progressbar/issues"
   },
-  "homepage": "https://github.com/webrtcn/md5file-with-progressbar#readme",
-  "dependencies": {
-    "fs": "0.0.1-security"
-  }
+  "homepage": "https://github.com/webrtcn/md5file-with-progressbar#readme" 
 }
